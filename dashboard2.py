@@ -1,4 +1,4 @@
-https://salesdashboard-sz4avoy8cfc3dsvrnf9qdt.streamlit.app/
+//https://salesdashboard-sz4avoy8cfc3dsvrnf9qdt.streamlit.app/
 //Above is the applications link.
 
     
