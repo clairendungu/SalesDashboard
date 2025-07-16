@@ -1,3 +1,7 @@
+https://salesdashboard-sz4avoy8cfc3dsvrnf9qdt.streamlit.app/
+//Above is the applications link.
+
+    
 import streamlit as st
 import pandas as pd
 import plotly.express as px
